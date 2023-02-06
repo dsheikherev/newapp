@@ -5838,6 +5838,11 @@ react-is@^17.0.1:
   resolved "https://registry.npmjs.org/react-is/-/react-is-17.0.2.tgz"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
+react-native-bugsee@^3.0.8:
+  version "3.0.8"
+  resolved "https://registry.npmjs.org/react-native-bugsee/-/react-native-bugsee-3.0.8.tgz"
+  integrity sha512-u/w0yDLVvi/91fRepCA/yJVNvv/gGNVjywOWS9U0/BB25oxOMtLYWe0a5zFS93PwXlYoxFc+4bBFglmUNsdseg==
+
 react-native-codegen@^0.71.3:
   version "0.71.3"
   resolved "https://registry.npmjs.org/react-native-codegen/-/react-native-codegen-0.71.3.tgz"
